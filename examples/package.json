@@ -20,7 +20,7 @@
     "glob": "^7.1.2",
     "jquery": "^2.0.0",
     "live-server": "^1.2.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "nodemon": "^1.11.0",
     "npm-run-all": "^4.0.2",
     "rollup": "^0.43.0",
